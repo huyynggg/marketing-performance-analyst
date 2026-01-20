@@ -1,7 +1,7 @@
 # Global Marketing Performance Analysis 
 
 [![Tableau Public](https://img.shields.io/badge/Tableau-View_Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/GlobalMarketingPerformance/OVERALLPERFORMANCE?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[![Dashboard Preview](global_performance_review.png)]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/GlobalMarketingPerformance/OVERALLPERFORMANCE?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[![Dashboard Preview](global_performance_preview.png)]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/GlobalMarketingPerformance/OVERALLPERFORMANCE?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Project Overview
 I generated a synthetic marketing dataset using **Python** and built an interactive **Tableau** dashboard to identify efficiency gaps between Paid and Organic channels.
